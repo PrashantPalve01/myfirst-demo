@@ -1,4 +1,4 @@
 # myfirst-demo
-This my first Repositroy.
+This my first Git Repositroy.
 <br>
 Author- Prashant Palve.
