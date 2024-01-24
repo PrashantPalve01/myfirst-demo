@@ -1,3 +1,4 @@
 # myfirst-demo
-This my first Repositroy
-Author- Prashant Palve
+This my first Repositroy.
+<br>
+Author- Prashant Palve.
